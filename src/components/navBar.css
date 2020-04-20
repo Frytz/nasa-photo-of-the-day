@@ -1,0 +1,17 @@
+.navMain {
+    border-right: 3px blue solid;
+    height: 100vh;
+    width: 150px;
+    z-index: 100;
+    background-color: lightcoral;
+    position: fixed;
+    top:0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.expandBtn{
+
+}
